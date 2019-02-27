@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Book Manager</string>
+    <string name="title_activity_login">Sign</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">ĐĂNG NHẬP</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="prompt_name">Username</string>
+    <string name="login_check_box">Remember me ?</string>
+    <string name="action_dang_ki">Hủy</string>
+    <string name="title_activity_registration">Registration</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_repassword">Repasswork</string>
+    <string name="notify_empty_name">Không để trống!!!</string>
+    <string name="notify_empty_name_spinner">yêu cầu trên 3 ký tự!!!</string>
+    <string name="notify_empty_pass_work">Passwork trên 6 ký tự!!!</string>
+    <string name="notify_empty_repass_work">Yêu cầu khớp Passwork!!!</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Tung Thai</string>
+    <string name="nav_header_subtitle">holygansnt@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_sign_up">Thoát</string>
+    <string name="notify_wrong_username_or_password">username chưa tồn tại!!!</string>
+    <string name="notify_save_successful">Sửa thành công</string>
+    <string name="notify_max_bill_idbill">Bill ID length is the maximum 7 characters!!!</string>
+</resources>
